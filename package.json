@@ -21,10 +21,12 @@
     "mysql": "^2.18.1",
     "path": "^0.12.7",
     "pdf-thumbnails-generator": "^1.0.6",
+    "pdfjs-dist": "^2.7.570",
     "react": "^18.0.0",
     "react-bootstrap": "^2.4.0",
     "react-datetime": "^3.1.1",
     "react-dom": "^18.0.0",
+    "react-pdf-thumbnail": "^0.1.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
